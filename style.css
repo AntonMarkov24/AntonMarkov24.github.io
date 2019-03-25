@@ -1057,7 +1057,7 @@ form[name="userData"] {
 	border-bottom: 3px solid #313E47;
 }
 
-@media (max-width: 1926px) {
+@media (max-width: 1919px) {
 	.swiper-container {
 		width: 1400px;
 		margin-left: -700px;
